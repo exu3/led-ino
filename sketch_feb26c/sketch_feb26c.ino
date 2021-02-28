@@ -8,12 +8,9 @@ int longWait=2000;
 
 void setup() {
   // put your setup code here, to run once:
-  int inMin = 8; //lowest pin number
-  int inMax = 13; //highest pin number
-  for(int i=inMin; i<=inMax; i++)
-  {
-    pinMode(i, OUTPUT);
-  }
+  pinMode(8, OUTPUT);
+  pinMode(10, OUTPUT);
+  pinMode(13, OUTPUT);
 }
 
 void loop() {
