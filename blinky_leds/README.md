@@ -1,6 +1,6 @@
 2/27/21
 
-random blinky patterns, shitty code
+random blinky patterns, :sparkles: shitty :sparkles: code
 
 ### Components
 - 8 x LEDs
@@ -9,6 +9,6 @@ random blinky patterns, shitty code
 - 1 x Arduino uno
 - 1 x breadboard
 
-check it out below!
+**This is what it looks like!**
 
 ![blinking led patterns](Hnet-image.gif)
